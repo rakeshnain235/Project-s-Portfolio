@@ -75,8 +75,9 @@ The strategy transformed DEPS from a digitally invisible brand into a **dominant
 
 
 ![Screenshot of Website vistor for the DEPS project](../../assets/images/DEPS-Website-visitor.png) 
-![Chart of website visitors for the DEPS project](../../assets/images/DEPS-Website-visitor.png)
 
+
+![Chart of website visitors for the DEPS project](https://raw.githubusercontent.com/rakeshnain235/Project-s-Portfolio/d11240694bec8469351bc34f402bf4b83ec97d36/assets/images/DEPS%20Website%20visitor.png)
 ---
 
 ## What The Client Says  
