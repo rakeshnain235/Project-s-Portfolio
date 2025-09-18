@@ -21,7 +21,6 @@ The company specializes in direct-to-seller, *as-is* cash purchases of residenti
 
 - **Industry:** Real Estate Investment  
 - **Location:** Columbus, Ohio, USA  
-- **Website:** [doubleeaglepropertysolutions.com](https://doubleeaglepropertysolutions.com)  
 
 ---
 
@@ -76,7 +75,7 @@ The strategy transformed DEPS from a digitally invisible brand into a **dominant
 
 
 ![Screenshot of Website vistor for the DEPS project](../../assets/images/DEPS-Website-visitor.png) 
-
+![Chart of website visitors for the DEPS project](../../assets/images/DEPS-Website-visitor.png)
 
 ---
 
