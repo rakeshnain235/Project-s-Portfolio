@@ -8,7 +8,9 @@
 - **>50%** Year-over-Year Organic Traffic Growth  
 - **>4.5%** Website Lead Conversion Rate  
 - **>150%** Increase in Google Business Profile Actions  
-- **>2.5%** Social Media Engagement Rate  
+- **>2.5%** Social Media Engagement Rate
+
+ 
 
 ---
 
@@ -68,7 +70,13 @@ The strategy transformed DEPS from a digitally invisible brand into a **dominant
 - **Dominant Organic Search Performance:** +50% YoY organic traffic growth (outpacing the 31% industry average).  
 - **High-Efficiency Lead Conversion:** Website consistently converts above **4.5%**.  
 - **Local Lead Capture:** Google Business Profile actions grew by **150%+**, capturing high-intent leads.  
-- **Stronger Brand Asset:** Social media engagement exceeded **2.5%**, building long-term equity and trust.  
+- **Stronger Brand Asset:** Social media engagement exceeded **2.5%**, building long-term equity and trust.
+
+![Screenshot of Instagram reach for the DEPS project](../../assets/images/DEPS%20Instagram%20reach.png)
+
+
+![Screenshot of Website vistor for the DEPS project](../../assets/images/DEPS-Website-visitor.png) 
+
 
 ---
 
