@@ -71,10 +71,10 @@ The strategy transformed DEPS from a digitally invisible brand into a **dominant
 - **Local Lead Capture:** Google Business Profile actions grew by **150%+**, capturing high-intent leads.  
 - **Stronger Brand Asset:** Social media engagement exceeded **2.5%**, building long-term equity and trust.
 
-![Screenshot of Instagram reach for the DEPS project]([../../assets/images/DEPS%20Instagram%20reach.png](https://github.com/rakeshnain235/Project-s-Portfolio/blob/126bfe7fbbf622bbb5c7b3e50e0476319d6fc0cc/assets/images/DEPS%20Instagram%20reach.png))
+![Screenshot of Instagram reach for the DEPS project] https://github.com/rakeshnain235/Project-s-Portfolio/blob/126bfe7fbbf622bbb5c7b3e50e0476319d6fc0cc/assets/images/DEPS%20Instagram%20reach.png
 
 
-![Screenshot of Website vistor for the DEPS project] (https://raw.githubusercontent.com/rakeshnain235/Project-s-Portfolio/d11240694bec8469351bc34f402bf4b83ec97d36/assets/images/DEPS%20Website%20visitor.png)
+![Screenshot of Website vistor for the DEPS project] https://github.com/rakeshnain235/Project-s-Portfolio/blob/124a395b835b6eaebce7f7f131e081287822ced7/assets/images/DEPS%20Website%20visitor.png
 
 
 
